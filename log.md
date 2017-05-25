@@ -2,9 +2,9 @@
 
 ### Day 1: 2017-05-25
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Create Material page
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** My goal is creating an Angular 2 material admin dashboard, Cool challenge ! today I just install angular-cli and material components and just say hello Angular Material!
 
 **Link to work:** [Calculator App](http://www.example.com)
 

@@ -1,5 +1,8 @@
 # I've joined the #100DaysOfCode Challenge.
 
+## Apps to create in 30 days
+
+- [ ] Create Angular 2+ material admin dashboard
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
